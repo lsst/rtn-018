@@ -13,9 +13,11 @@
 
    **This is a SQuaRE delivery note covering the web forum service deployed as community.lsst.org and related infrastructure.**
 
-   A delivery note is being used to transition a service (or other codebase) from Rubin Construction to Operations in situations where the service is not covered by a requirements document, is not part of the observatory operational readiness milestone, or otherwise lacks a formal process of delivery.
+   A Delivery Note is being used to transition a service (or other codebase) from Rubin Construction to Operations in situations where the service is not covered by a requirements document, is not part of the observatory operational readiness milestone, or otherwise lacks a formal process of delivery.
 
-   Its purpose is to document the transition so as to allow Ops-funded developers to continue to maintain and evolve the service, and to allow the service's deployment costs to be covered by Ops infrastructure or funding. It can also be used to describe responsibilities for the service when not a direct continuation of the model used in construction. 
+   Its purpose is to document the transition so as to allow Ops-funded developers to continue to maintain and evolve the service, and to allow the service's deployment costs to be covered by Ops infrastructure or funding. It can also be used to describe responsibilities for the service when not a direct continuation of the model used in construction.
+
+   The process is complete when the relevant AD(s) and/or Director reviews the note and the note is published (merged to master).
 
 .. Add content here.
 
@@ -24,7 +26,7 @@ What is covered
 
 This delivery note covers the Discourse-based web forum service deployed as community.lsst.org
 
-The web forum is a long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers. 
+The web forum is a long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers.
 
 What artifacts (code, docs, infrastructure) are involved?
 ---------------------------------------------------------
@@ -61,7 +63,7 @@ The service is hosted on a Digital Ocean droplet and costs approximately $30/mon
 How is the service supported?
 -----------------------------
 
-The slack channel #rubinobs-forum-team offers support of and discussion with content administators of the forum, such as the Ops Community Engagement Team. 
+The slack channel #rubinobs-forum-team offers support of and discussion with content administators of the forum, such as the Ops Community Engagement Team.
 
 Users of the forum can discuss management issues of the forum on the forum itself under the Meta category: https://community.lsst.org/c/meta/3
 
@@ -72,48 +74,56 @@ Handover
 What construction team is delivering the service?
 -------------------------------------------------
 
-SQuaRE built and operated this service during Construction on behalf of Data Management. 
+SQuaRE built and operates this service during Construction on behalf of Data Management.
 
-As a project forum, content was contributed primarily by project staff. 
+As a project forum, content was contributed primarily by project staff.
 
 What operations team is receiving the service?
 ----------------------------------------------
 
-In Operations, community.lsst.org is a collaboration between SQuaRE and CET. 
+In Operations, community.lsst.org is a collaboration between SQuaRE and CET.
 
-SQuaRE will continue operating the service during Operations on behalf of Data Production. 
+SQuaRE will continue operating the service during Operations on behalf of Data Production.
 This includes all technical aspects of operating the service including its deployment, technical and design upgrades as well as security updates, backups, etc.
 
 The Community Engagement Team will be responsible for content management of the sections of the forum accessible to the Rubin Scientific Community on behalf of Rubin System Performance.
 It is also responsible for setting policy in areas that are relevant to its activities, eg. what the protocol is for answering user questions.
 
-The teams use the Slack channel #rubinobs-forum-team to communicate intended work, discuss improvements and genereally keep the other informed. 
+The teams use the Slack channel #rubinobs-forum-team to communicate intended work, discuss improvements and genereally keep the other informed.
 
 Is there any authorisation or asset tranfer required?
 -----------------------------------------------------
 
-No authorisation information is required. 
+No authorisation information is required.
 
-SQuaRE maintains the administrative secrets required to operate the service. 
-Select members of CET have full adminstrative rights on the forum itself. 
+SQuaRE maintains the administrative secrets required to operate the service.
+Select members of CET have full adminstrative rights on the forum itself.
 
+Known Issues
+============
+
+There are no known issues with the service.
+
+Development on this service is largely reactive driven by user and content-administrator requests.
+
+For billing efficiency, we may wish to consider at some point in the future deploying the service on our main cloud services provider in the future, as it is one of only two SQuaRE services hosted on Digital Ocean for historical reasons.
 
 Additional Notes
 ================
 
-DNS 
+DNS
 ---
-As the service is deployed under the lsst.org domain controlled by (in Construction) Project IT, co-ordination is required with that group or its successor for any DNS changes. 
+As the service is deployed under the lsst.org domain controlled by (in Construction) Project IT, co-ordination is required with that group or its successor for any DNS changes.
 
 Visual Identity
---------------- 
+---------------
 The theming elements of the forum use assets from the visual identity guide and the visual identity style dictionary. Co-ordination is required with the Rubin visual identity team.
 
-   
+
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 
-   
+
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
