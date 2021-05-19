@@ -46,13 +46,44 @@
 
 .. note::
 
-   **This technote is not yet published.**
+   **This is a SQuaRE delivery note covering the web forum service deployed as community.lsst.org and related infrastructure.**
 
-   Delivery note covering community.lsst.org and related infrastructure. 
+   A delivery note is being used to transition a service (or other codebase) from Rubin Construction to Operations in situations where the service is not covered by a requirements document, is not part of the observatory operational readiness milestone, or otherwise lacks a formal process of delivery.
+
+   Its purpose is to document the transition so as to allow Ops-funded developers to continue to maintain and evolve the service, and to allow the service's deployment costs to be covered by Ops infrastructure or funding. It can also be used to describe responsibilities for the service when not a direct continuation of the model used in construction. 
 
 .. Add content here.
+
+What is covered
+===============
+
+
+What artifacts (code, docs) are involved?
+-----------------------------------------
+
+What costs does the service incurr?
+-----------------------------------
+
+
+Responsibilities
+================
+
+What construction team is delivering the service?
+-------------------------------------------------
+
+What operations team is receiving the service?
+----------------------------------------------
+
+What differences should one expect post-transition?
+---------------------------------------------------
+
+
+
+   
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
+
+   
 .. .. rubric:: References
 
 .. Make in-text citations with: :cite:`bibkey`.
