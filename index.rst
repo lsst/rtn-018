@@ -29,10 +29,6 @@ The web forum is a long-lived (compared to Slack) discussion forum replacing mai
 What artifacts (code, docs, infrastructure) are involved?
 ---------------------------------------------------------
 
-The following repositories hold components of this service:
-
-- https://github.com/lsst-sqre/community_mailbot
-
 The following repositories include visual (theme) styling components:
 
 - https://github.com/lsst-sqre/discourse-rubin-theme
