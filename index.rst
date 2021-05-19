@@ -49,6 +49,7 @@ Additionally the following resources are involved in the operation of this servi
 - Slack application to bridge Discourse and Slack
 - Twitter app for OAuth login
 - GitHub OAuth app for login
+- 1Password for secrets management
 
 The motivation for the service's creation and outline of its elements can be found at https://sqr-011.lsst.io/#community-forum-and-mailing-lists
 
