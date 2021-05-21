@@ -55,12 +55,12 @@ Additionally the following resources are involved in the operation of this servi
 
 The motivation for the service's creation and outline of its elements can be found at https://sqr-011.lsst.io/#community-forum-and-mailing-lists
 
-What costs does the service incur?
+Potential costs
 -----------------------------------
 
 The service is hosted on a Digital Ocean droplet and costs approximately $30/month billed directly to an AURA Purchasing credit card under a blanket PO against CS008.1.02C.10.01.KLM21001A
 
-How is the service supported?
+Ongoing support
 -----------------------------
 
 The slack channel #rubinobs-forum-team offers support of and discussion with content administators of the forum, such as the Ops Community Engagement Team.
@@ -71,7 +71,7 @@ Users of the forum can discuss management issues of the forum on the forum itsel
 Handover
 ========
 
-What construction team is delivering the service?
+Delivering team
 -------------------------------------------------
 
 SQuaRE built and operates this service during Construction on behalf of Data Management.
@@ -91,7 +91,7 @@ It is also responsible for setting policy in areas that are relevant to its acti
 
 The teams use the Slack channel #rubinobs-forum-team to communicate intended work, discuss improvements and genereally keep the other informed.
 
-Is there any authorisation or asset tranfer required?
+Authorization or asset transfer
 -----------------------------------------------------
 
 No authorisation information is required.
