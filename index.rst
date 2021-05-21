@@ -21,7 +21,7 @@
 
 .. Add content here.
 
-What is covered
+Scope 
 ===============
 
 This delivery note covers the Discourse-based web forum service deployed as community.lsst.org
