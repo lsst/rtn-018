@@ -26,7 +26,7 @@ What is covered
 
 This delivery note covers the Discourse-based web forum service deployed as community.lsst.org
 
-The web forum is a long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers.
+The web forum is a destination for long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers in an asynchronous and searchable manner.
 
 What artifacts (code, docs, infrastructure) are involved?
 ---------------------------------------------------------
@@ -38,7 +38,7 @@ The following repositories include visual (theme) styling components:
 - https://github.com/lsst-sqre/discourse-rubin-header
 - https://github.com/lsst-sqre/discourse-rubin-footer
 
-The following example on how to use the Discourse API:
+The following repo documents an example of how to use the Discourse API:
 
 - https://github.com/lsst-sqre/community_api
 
@@ -76,12 +76,12 @@ What construction team is delivering the service?
 
 SQuaRE built and operates this service during Construction on behalf of Data Management.
 
-As a project forum, content was contributed primarily by project staff.
+As a project forum, content was contributed organically primarily by project staff.
 
 What operations team is receiving the service?
 ----------------------------------------------
 
-In Operations, community.lsst.org is a collaboration between SQuaRE and CET.
+In Operations, community.lsst.org is a collaboration between SQuaRE (DPP) and CET (RPF)
 
 SQuaRE will continue operating the service during Operations on behalf of Data Production.
 This includes all technical aspects of operating the service including its deployment, technical and design upgrades as well as security updates, backups, etc.
