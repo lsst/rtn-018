@@ -28,7 +28,7 @@ This delivery note covers the Discourse-based web forum service deployed as comm
 
 The web forum is a destination for long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers in an asynchronous and searchable manner.
 
-What artifacts (code, docs, infrastructure) are involved?
+Artifacts (code, docs, infrastructure) involved in this delivery
 ---------------------------------------------------------
 
 The following repositories include visual (theme) styling components:
