@@ -78,7 +78,7 @@ SQuaRE built and operates this service during Construction on behalf of Data Man
 
 As a project forum, content was contributed organically primarily by project staff.
 
-What operations team is receiving the service?
+Receiving Operations team
 ----------------------------------------------
 
 In Operations, community.lsst.org is a collaboration between SQuaRE (DPP) and CET (RPF)
