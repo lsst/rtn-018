@@ -21,7 +21,7 @@
 
 .. Add content here.
 
-Scope 
+Scope
 ===============
 
 This delivery note covers the Discourse-based web forum service deployed as community.lsst.org
@@ -58,7 +58,7 @@ The motivation for the service's creation and outline of its elements can be fou
 Potential costs
 -----------------------------------
 
-The service is hosted on a Digital Ocean droplet and costs approximately $30/month billed directly to an AURA Purchasing credit card under a blanket PO against CS008.1.02C.10.01.KLM21001A
+The service is hosted on a Digital Ocean droplet and costs approximately $30/month billed directly to an AURA Purchasing credit card under a blanket PO against CS008.1.02C.10.01.KLM21001A. A new PO will be issued for Operations under CS002.
 
 Ongoing support
 -----------------------------
