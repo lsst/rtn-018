@@ -19,17 +19,19 @@
 
    The process is complete when the relevant AD(s) and/or Director reviews the note and the note is published (merged to master).
 
+   **Reviewed by:** Wil O'Mullane and Bob Blum
+
 .. Add content here.
 
 Scope
-===============
+=====
 
 This delivery note covers the Discourse-based web forum service deployed as community.lsst.org
 
 The web forum is a destination for long-lived (compared to Slack) discussion forum replacing mailing lists for internal project use, as well as a community-facing forum designed to involve the community in discussions with the project as well as their peers in an asynchronous and searchable manner.
 
 Artifacts (code, docs, infrastructure) involved in this delivery
----------------------------------------------------------
+----------------------------------------------------------------
 
 The following repositories include visual (theme) styling components:
 
@@ -56,12 +58,12 @@ Additionally the following resources are involved in the operation of this servi
 The motivation for the service's creation and outline of its elements can be found at https://sqr-011.lsst.io/#community-forum-and-mailing-lists
 
 Potential costs
------------------------------------
+---------------
 
 The service is hosted on a Digital Ocean droplet and costs approximately $30/month billed directly to an AURA Purchasing credit card under a blanket PO against CS008.1.02C.10.01.KLM21001A. A new PO will be issued for Operations under CS002.
 
 Ongoing support
------------------------------
+---------------
 
 The slack channel #rubinobs-forum-team offers support of and discussion with content administators of the forum, such as the Ops Community Engagement Team.
 
@@ -72,14 +74,14 @@ Handover
 ========
 
 Delivering team
--------------------------------------------------
+----------------
 
 SQuaRE built and operates this service during Construction on behalf of Data Management.
 
 As a project forum, content was contributed organically primarily by project staff.
 
 Receiving Operations team
-----------------------------------------------
+--------------------------
 
 In Operations, community.lsst.org is a collaboration between SQuaRE (DPP) and CET (RPF)
 
@@ -92,7 +94,7 @@ It is also responsible for setting policy in areas that are relevant to its acti
 The teams use the Slack channel #rubinobs-forum-team to communicate intended work, discuss improvements and genereally keep the other informed.
 
 Authorization or asset transfer
------------------------------------------------------
+-------------------------------
 
 No authorisation information is required.
 
